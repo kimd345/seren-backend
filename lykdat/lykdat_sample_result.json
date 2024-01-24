@@ -1,0 +1,1115 @@
+{
+	"data": {
+		"query_image": "https://storage.googleapis.com/projectameoba.appspot.com/c46bd9416d9bf2056a84745a02fc36fae7c75defe613d53ee40010f4163154c3_image-2024-01-22-064740",
+		"result_groups": [
+			{
+				"average_score": 0.5938879875,
+				"detected_item": {
+					"area": 0.020871285734596,
+					"bounding_box": {
+						"bottom": 0.9505031,
+						"left": 0.38111076,
+						"right": 0.5659156,
+						"top": 0.8375662
+					},
+					"category": null,
+					"detection_confidence": 0.87316537,
+					"item_image": null,
+					"name": "High heels"
+				},
+				"max_score": 0.78776485,
+				"rank_score": 0.016441665276021155,
+				"similar_products": [
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "italist--theurge--it_59458_en-zz--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561690011669231/-franchi-jeans-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561690011669231/-franchi-jeans-1.jpg",
+						"name": "Elisabetta Franchi Jeans",
+						"price": "127.54",
+						"reduced_price": null,
+						"score": 0.78776485,
+						"sub_category": "trousers",
+						"url": "https://www.italist.com/en/women/clothing/jeans/elisabetta-franchi-jeans/10596689/10766229/elisabetta-franchi-celyn-b.",
+						"vendor": "italist"
+					},
+					{
+						"brand_name": "levi's",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "spartoo--18318258--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1595623616527289/es2.productserve.com",
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1595623715940959/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1595623616527289/es2.productserve.com",
+						"name": "Levis  56327 0042 - 501 SHORT  in Blue",
+						"price": "54.91",
+						"reduced_price": "54.91",
+						"score": 0.69142145,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=26911477965&a=620485&m=2638",
+						"vendor": "spartoo"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--094834172026--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664384171953344/olate-Rafaella-9.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664384171953344/olate-Rafaella-9.jpg",
+						"name": "Rafaella Women's Ponte Knit Slim Leg Pants - Comfort Fit in Dark Chocolate Black, Size 4, Viscose/Nylon/Elastane",
+						"price": "79.00",
+						"reduced_price": "32.00",
+						"score": 0.6859364,
+						"sub_category": "trousers",
+						"url": "https://www.jdoqocy.com/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fponte-slim-leg-pant-rsbh6067r1%3Fvariant%3D33255443890235&cjsku=094834172026",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--094834172033--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1635107538238898/olate-Rafaella-2.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1635107538238898/olate-Rafaella-2.jpg",
+						"name": "Rafaella Women's Ponte Knit Slim Leg Pants - Comfort Fit in Dark Chocolate Black, Size 6, Viscose/Nylon/Elastane",
+						"price": "79.00",
+						"reduced_price": "32.00",
+						"score": 0.6809857,
+						"sub_category": "trousers",
+						"url": "https://www.jdoqocy.com/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fponte-slim-leg-pant-rsbh6067r1%3Fvariant%3D33255443988539&cjsku=094834172033",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "italist--theurge--it_106278_en-zz--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561538850041334/ferretti-dress-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561538850041334/ferretti-dress-1.jpg",
+						"name": "- Dress",
+						"price": "900.27",
+						"reduced_price": null,
+						"score": 0.6756547,
+						"sub_category": "dress",
+						"url": "https://www.italist.com/en/women/clothing/dresses/alberta-ferretti-dress/10647921/10817371/alberta-ferretti",
+						"vendor": "italist"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--094834172040--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664378270325446/olate-Rafaella-9.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664378270325446/olate-Rafaella-9.jpg",
+						"name": "Rafaella Women's Ponte Knit Slim Leg Pants - Comfort Fit in Dark Chocolate Black, Size 8, Viscose/Nylon/Elastane",
+						"price": "79.00",
+						"reduced_price": "32.00",
+						"score": 0.66359556,
+						"sub_category": "trousers",
+						"url": "https://www.anrdoezrs.net/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fponte-slim-leg-pant-rsbh6067r1%3Fvariant%3D33255444021307&cjsku=094834172040",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "italist--theurge--it_106291_en-zz--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561532939351615/-exploit-dress-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561532939351615/-exploit-dress-1.jpg",
+						"name": "- Exploit Dress",
+						"price": "602.32",
+						"reduced_price": null,
+						"score": 0.65666425,
+						"sub_category": "dress",
+						"url": "https://www.italist.com/en/women/clothing/dresses/max-mara-exploit-dress/10647906/10817356/max-mara",
+						"vendor": "italist"
+					},
+					{
+						"brand_name": null,
+						"category": "shoes",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "zalando--KE311B00P-Q12--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/mosaic04.ztat.net/vgs/media/catalog-lg/KE/31/1B/00/PQ/12/KE311B00P-Q12@12.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/mosaic04.ztat.net/vgs/media/catalog-lg/KE/31/1B/00/PQ/12/KE311B00P-Q12@12.jpg",
+						"name": "SHEYLA - High heels - schwarz",
+						"price": "214.99",
+						"reduced_price": "214.99",
+						"score": 0.63759565,
+						"sub_category": null,
+						"url": "https://www.zalando.co.uk/kennel--schmenger-sheyla-platform-heels-ke311b00p-q12.html",
+						"vendor": "zalando"
+					},
+					{
+						"brand_name": "natori",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": null,
+						"id": "shopstyle--819400813--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581943675323791/ntrol-top-tights.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581943675323791/ntrol-top-tights.jpg",
+						"name": "Natori 2-Pack Control Top Tights",
+						"price": "54",
+						"reduced_price": "24",
+						"score": 0.63609266,
+						"sub_category": "tops",
+						"url": "https://www.shopstyle.com/g/women/natori/2-pack-control-top-tights",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "diesel",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--17362466--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1656539963645038/17362466-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1656539963645038/17362466-1.jpg",
+						"name": "Black Niclah Straight Stretch Jeans",
+						"price": "150.00",
+						"reduced_price": "55.00",
+						"score": 0.6227702,
+						"sub_category": "trousers",
+						"url": "https://www.jdoqocy.com/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F17362466.html&cjsku=17362466",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "zalando--M5821A03F-K11--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/mosaic01.ztat.net/vgs/media/catalog-lg/M5/82/1A/03/FK/11/M5821A03F-K11@12.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/mosaic01.ztat.net/vgs/media/catalog-lg/M5/82/1A/03/FK/11/M5821A03F-K11@12.jpg",
+						"name": "HEDY - Trousers - marine",
+						"price": "59.99",
+						"reduced_price": "41.99",
+						"score": 0.6215665,
+						"sub_category": "trousers",
+						"url": "https://www.zalando.co.uk/more-more-hedy-trousers-marine-m5821a03f-k11.html",
+						"vendor": "zalando"
+					},
+					{
+						"brand_name": "le suit",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--928693741--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1682814725735171/encil-skirt-suit.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1682814725735171/encil-skirt-suit.jpg",
+						"name": "Le Suit Plus Size Textured 3/4-Sleeve Pencil Skirt Suit",
+						"price": "310",
+						"reduced_price": "310",
+						"score": 0.6183314,
+						"sub_category": "suits",
+						"url": "https://www.shopstyle.com/g/women/le-suit/plus-size-textured-3-4-sleeve-pencil-skirt-suit",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "zaful",
+						"category": "shoes",
+						"currency": "USD",
+						"gender": null,
+						"id": "zaful--cj--502779003--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/gloimg.zafcdn.com/1695912430470423/25_62a8745dcb660.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/gloimg.zafcdn.com/1695912430470423/25_62a8745dcb660.jpg",
+						"name": "Solid Platforms Stiletto Heel Pumps",
+						"price": "40.99",
+						"reduced_price": null,
+						"score": 0.6180022,
+						"sub_category": "footwear",
+						"url": "https://www.tkqlhce.com/click-9272677-13830631?url=https%3A%2F%2Fwww.zaful.com%2Fsolid-platforms-stiletto-heel-pumps-p_1122865.html&cjsku=502779003",
+						"vendor": "zaful"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "karenmillen--partnerize--BKK08674-105-14--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/i1.adis.ws/1672273535402195/k08674_black_xl.jpg$"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/i1.adis.ws/1672273535402195/k08674_black_xl.jpg$",
+						"name": "Military Pleat Sleeveless Midi Dress - Black",
+						"price": "219.00",
+						"reduced_price": "131.40",
+						"score": 0.60979885,
+						"sub_category": "dress",
+						"url": "https://kmillen.prf.hn/click/camref:1101lqzaJ/creativeref:1100l83404/destination:https%3A%2F%2Fwww.karenmillen.com%2Fmilitary-pleat-sleeveless-midi-dress%2FBKK08674-105-14.html",
+						"vendor": "karenmillen"
+					},
+					{
+						"brand_name": "ericdress",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "ericdresscom--cj--13302152_19619_19589_US_en--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/simages.ericdress.com/1656524040396996/63d-0782c59d33f6.JPG"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/simages.ericdress.com/1656524040396996/63d-0782c59d33f6.JPG",
+						"name": "Ericdress Tulle Knee Length Underskirt",
+						"price": "13.59",
+						"reduced_price": null,
+						"score": 0.6086963,
+						"sub_category": "skirt",
+						"url": "https://www.tkqlhce.com/click-9272677-13735933?url=https%3A%2F%2Fwww.ericdress.com%2Fproduct%2FEricdress-Tulle-Knee-Length-Underskirt-13302152.html%3Fcurrency%3DUSD%234123778&cjsku=13302152_19619_19589_US_en",
+						"vendor": "ericdress.com"
+					},
+					{
+						"brand_name": "veronica beard",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--801772138--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581961487594851/ard-anthea-dress.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581961487594851/ard-anthea-dress.jpg",
+						"name": "Veronica Beard Anthea Dress",
+						"price": "111.1",
+						"reduced_price": "795",
+						"score": 0.6084431,
+						"sub_category": "dress",
+						"url": "https://www.shopstyle.com/g/women/veronica-beard/anthea-dress",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "zalando--ZAI21A004-G11--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/mosaic01.ztat.net/vgs/media/catalog-lg/ZA/I2/1A/00/4G/11/ZAI21A004-G11@13.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/mosaic01.ztat.net/vgs/media/catalog-lg/ZA/I2/1A/00/4G/11/ZAI21A004-G11@13.jpg",
+						"name": "WIDE PANT - Trousers - port royal",
+						"price": "69.99",
+						"reduced_price": "48.99",
+						"score": 0.60665,
+						"sub_category": "trousers",
+						"url": "https://www.zalando.co.uk/zay-wide-pant-trousers-port-royal-zai21a004-g11.html",
+						"vendor": "zalando"
+					},
+					{
+						"brand_name": "everything5pounds",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "everything5pounds--695422-380646-6900--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1633052488699438/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1633052488699438/es2.productserve.com",
+						"name": "D-Ring Belted Plaid Tapered Trousers",
+						"price": "5.0",
+						"reduced_price": "5.0",
+						"score": 0.60159117,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=29005862165&a=620485&m=6497",
+						"vendor": "everything5pounds"
+					},
+					{
+						"brand_name": "dim",
+						"category": "lingerie",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "laredoute--3501075051--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579758091797255/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579758091797255/es2.productserve.com",
+						"name": "Fishnet 73 Denier Stockings",
+						"price": "20.00",
+						"reduced_price": "13.00",
+						"score": 0.60143256,
+						"sub_category": "socks & hosiery",
+						"url": "https://www.awin1.com/pclick.php?p=23875693301&a=620485&m=1496",
+						"vendor": "laredoute"
+					},
+					{
+						"brand_name": "dim",
+						"category": "lingerie",
+						"currency": "CHF",
+						"gender": "female",
+						"id": "laredoute--350107505--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579752283321465/es2.productserve.com",
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579755231432995/es2.productserve.com",
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579756052398101/es2.productserve.com",
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1585896136276989/es2.productserve.com",
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.laredoute.com/1585896136276995/d1e956efa6c2a5e7.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579752283321465/es2.productserve.com",
+						"name": "Bas résille",
+						"price": "14.95",
+						"reduced_price": "14.95",
+						"score": 0.60143256,
+						"sub_category": "socks & hosiery",
+						"url": "https://www.awin1.com/pclick.php?p=21499678865&a=620485&m=11335",
+						"vendor": "laredoute"
+					},
+					{
+						"brand_name": "diesel",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "spartoo--17130516F--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579816710009602/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579816710009602/es2.productserve.com",
+						"name": "Diesel  BABHILA 0098Z JEANS Women DENIM MEDIUM BLUE  women's Jeans in Blue",
+						"price": "133.22",
+						"reduced_price": "95.05",
+						"score": 0.5959276,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=25545055981&a=620485&m=2638",
+						"vendor": "spartoo"
+					},
+					{
+						"brand_name": "hobbs london",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--16627833--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595674875136338/16627833-2.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595674875136338/16627833-2.jpg",
+						"name": "Navy Spot Carmel Skirt",
+						"price": "27.00",
+						"reduced_price": null,
+						"score": 0.5953162,
+						"sub_category": "skirt",
+						"url": "https://www.tkqlhce.com/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F16627833.html&cjsku=16627833",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": "hobbs london",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--16979838--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677589080564/16979838-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677589080564/16979838-1.jpg",
+						"name": "Navy Lucinda Dress",
+						"price": "35",
+						"reduced_price": null,
+						"score": 0.5940537,
+						"sub_category": "dress",
+						"url": "https://www.tkqlhce.com/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F16979838.html&cjsku=16979838",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": "New Look",
+						"category": "shoes",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "zalando--NL011B0DK-Q11--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/mosaic03.ztat.net/1590330566044414/NL011B0DK-Q11@10.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/mosaic03.ztat.net/1590330566044414/NL011B0DK-Q11@10.jpg",
+						"name": "REIGN - High heels - black",
+						"price": "20.99",
+						"reduced_price": "18.89",
+						"score": 0.5891268,
+						"sub_category": "footwear",
+						"url": "https://www.zalando.co.uk/new-look-reign-platform-heels-black-nl011b0dk-q11.html",
+						"vendor": "zalando"
+					},
+					{
+						"brand_name": "asos",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--767530726--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581938147073378/belle-green-cast.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581938147073378/belle-green-cast.jpg",
+						"name": "Asos Design ASOS DESIGN Farleigh high waist Deconstructed slim mom jeans in belle green cast",
+						"price": "33.75",
+						"reduced_price": "60",
+						"score": 0.5873422,
+						"sub_category": "trousers",
+						"url": "https://www.shopstyle.com/g/women/asos/design-design-farleigh-high-waist-deconstructed-slim-mom-jeans-in-belle-green-cast",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "kut from the kloth",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--939590724--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1682814085695693/ist-skinny-jeans.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1682814085695693/ist-skinny-jeans.jpg",
+						"name": "Mia Fab Ab Coated High Waist Skinny Jeans",
+						"price": "99",
+						"reduced_price": "99",
+						"score": 0.58281696,
+						"sub_category": "trousers",
+						"url": "https://www.shopstyle.com/g/women/kut-from-the-kloth/mia-fab-ab-coated-high-waist-skinny-jeans",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "guess jeans",
+						"category": "clothing",
+						"currency": "PLN",
+						"gender": null,
+						"id": "answear--1955659--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1585828511856477/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1585828511856477/es2.productserve.com",
+						"name": "Guess Jeans - Jeansy Jegging",
+						"price": "179.9",
+						"reduced_price": "179.9",
+						"score": 0.58248115,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=26121913347&a=620485&m=8015",
+						"vendor": "answear"
+					},
+					{
+						"brand_name": "paige",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--492314670--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1560719748074527/ec950e92bf0_best.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1560719748074527/ec950e92bf0_best.jpg",
+						"name": "Transcend - Leggy Ultra Skinny Jeans",
+						"price": "189",
+						"reduced_price": "179",
+						"score": 0.5789525,
+						"sub_category": "trousers",
+						"url": "https://www.shopstyle.com/g/women/paige/transcend-leggy-ultra-skinny-jeans",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "boss",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--16811093--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677589081043/16811093-3.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677589081043/16811093-3.jpg",
+						"name": "Navy Darenia Dress",
+						"price": "95",
+						"reduced_price": "95.00",
+						"score": 0.5784923,
+						"sub_category": "dress",
+						"url": "https://www.dpbolvw.net/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F16811093.html&cjsku=16811093",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": "j brand",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--16710672--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677529130752/16710672-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677529130752/16710672-1.jpg",
+						"name": "Gold Ruby Crop Cigarette Stretch Jeans",
+						"price": "29",
+						"reduced_price": "55.00",
+						"score": 0.57824445,
+						"sub_category": "trousers",
+						"url": "https://www.jdoqocy.com/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F16710672.html&cjsku=16710672",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": "alfred dunner",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--462558501--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581978140671758/raight-leg-pants.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581978140671758/raight-leg-pants.jpg",
+						"name": "Alfred Dunner Petite Classics Corduroy Straight-Leg Pants",
+						"price": "46",
+						"reduced_price": "46",
+						"score": 0.57734305,
+						"sub_category": "trousers",
+						"url": "https://www.shopstyle.com/g/women/alfred-dunner/petite-classics-corduroy-straight-leg-pants",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "USD",
+						"gender": null,
+						"id": "theiconic--theurge--ti_808652_en-zz--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561526638005432/-stretch-denim-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images.theurge.com/1561526638005432/-stretch-denim-1.jpg",
+						"name": "Coco Super Stretch Denim",
+						"price": "62.35",
+						"reduced_price": null,
+						"score": 0.5757955,
+						"sub_category": "trousers",
+						"url": "https://www.theiconic.com.au/coco-super-stretch-denim-808652.html",
+						"vendor": "theiconic"
+					},
+					{
+						"brand_name": "ericdress",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "ericdresscom--cj--21437158_0_2861_US_en--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/simages.ericdress.com/159507284736637/ad0-68e2748299ac.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/simages.ericdress.com/159507284736637/ad0-68e2748299ac.jpg",
+						"name": "Ericdress Female European Plain Alloy Anklets",
+						"price": "13.64",
+						"reduced_price": null,
+						"score": 0.5744868,
+						"sub_category": "dress",
+						"url": "https://www.kqzyfj.com/click-9272677-13735933?url=https%3A%2F%2Fwww.ericdress.com%2Fproduct%2FEricdress-Female-European-Plain-Alloy-Anklets-21437158.html%3Fcurrency%3DUSD%239400827&cjsku=21437158_0_2861_US_en",
+						"vendor": "ericdress.com"
+					},
+					{
+						"brand_name": "spanx",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": null,
+						"id": "shopstyle--144773314--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1561323554992382/32af741dc9c_best.jpg",
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581943674618309/ist-shaper-capri.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1561323554992382/32af741dc9c_best.jpg",
+						"name": "Higher Power Capri Shaper",
+						"price": "38",
+						"reduced_price": "28",
+						"score": 0.57249665,
+						"sub_category": "trousers",
+						"url": "https://www.shopstyle.com/g/women/spanx/higher-power-capri-shaper",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "ella by rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--796866515610--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1695921746169942/ck-Ella-Rafaella.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1695921746169942/ck-Ella-Rafaella.jpg",
+						"name": "Ella by Rafaella Women's Clip Organza A-Line Dress in Black, Solid, Polyester/Nylon",
+						"price": "129.00",
+						"reduced_price": "65.00",
+						"score": 0.5722313,
+						"sub_category": "dress",
+						"url": "https://www.dpbolvw.net/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fclip-organza-a-line-dress-rsqfd011r2%3Fvariant%3D41438832558139&cjsku=796866515610",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": "ella by rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--796866524827--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1695914300543757/ck-Ella-Rafaella.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1695914300543757/ck-Ella-Rafaella.jpg",
+						"name": "Ella by Rafaella Women's Petite Clip Organza A-Line Dress in Black, Size LP, Solid, Polyester/Nylon",
+						"price": "129.00",
+						"reduced_price": "65.00",
+						"score": 0.57193196,
+						"sub_category": "dress",
+						"url": "https://www.dpbolvw.net/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fpetite-clip-organza-a-line-dress-prqfd011r2%3Fvariant%3D41438839046203&cjsku=796866524827",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "karenmillen--partnerize--BKK06344-157-18--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/i1.adis.ws/1667004528416352/bkk06344_red_xl.jpg$"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/i1.adis.ws/1667004528416352/bkk06344_red_xl.jpg$",
+						"name": "Italian Virgin Wool Blend Hourglass Midi Coat - Red",
+						"price": "129.00",
+						"reduced_price": "215.00",
+						"score": 0.5719218,
+						"sub_category": "outerwear",
+						"url": "https://kmillen.prf.hn/click/camref:1101lqzaJ/creativeref:1100l83404/destination:https://www.karenmillen.com/italian-virgin-wool-blend-hourglass-midi-coat/BKK06344-157-18.html?istCompanyId=dfd62749-7a70-423e-9199-65ac094a6cab&istFeedId=7bac15fb-de17-4c04-ba60-526931150c56&istItemId=ripaaqall&istBid=t",
+						"vendor": "karenmillen"
+					},
+					{
+						"brand_name": "vero moda",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "laredoute--3502798281--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/166173136330769/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/166173136330769/es2.productserve.com",
+						"name": "Paperbag High Waist Trousers",
+						"price": "26.25",
+						"reduced_price": "26.25",
+						"score": 0.5714824,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=33590664245&a=620485&m=1496",
+						"vendor": "laredoute"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--094829509820--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/163510743468394/raphite-Rafaella.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/163510743468394/raphite-Rafaella.jpg",
+						"name": "Rafaella Women's Slim Leg Stretch Gabardine Pants - Curvy Fit, Plus Size in Graphite Black, Size 10, Polyester/Rayon/Spandex",
+						"price": "79.00",
+						"reduced_price": "32.00",
+						"score": 0.56856066,
+						"sub_category": "trousers",
+						"url": "https://www.jdoqocy.com/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2F2-way-slim-pant-rsbf8112r1%3Fvariant%3D33255262748731&cjsku=094829509820",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": "ericdress",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "ericdresscom--cj--13302152_19618_19579_US_en--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/simages.ericdress.com/159446644205367/7e4-cee5eae10d29.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/simages.ericdress.com/159446644205367/7e4-cee5eae10d29.jpg",
+						"name": "Ericdress Tulle Knee Length Underskirt",
+						"price": "13.59",
+						"reduced_price": null,
+						"score": 0.56524837,
+						"sub_category": "skirt",
+						"url": "https://www.dpbolvw.net/click-9272677-13735933?url=https%3A%2F%2Fwww.ericdress.com%2Fproduct%2FEricdress-Tulle-Knee-Length-Underskirt-13302152.html%3Fcurrency%3DUSD%234123761&cjsku=13302152_19618_19579_US_en",
+						"vendor": "ericdress.com"
+					},
+					{
+						"brand_name": "boohoo",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "boohoo--GZZ64392-105-24--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1695941176679255/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1695941176679255/es2.productserve.com",
+						"name": "Womens Tall Mid Rise Skinny Jeans - Black - 16, Black",
+						"price": "18.00",
+						"reduced_price": "18.00",
+						"score": 0.5650349,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=36339370948&a=620485&m=2319",
+						"vendor": "boohoo"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--463992109--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1563944754613236/d5eeb28b8c3_best.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1563944754613236/d5eeb28b8c3_best.jpg",
+						"name": "Women With Control Women with Control Petite Pull-on Slim Leg Pants",
+						"price": "6.99",
+						"reduced_price": null,
+						"score": 0.56427634,
+						"sub_category": "trousers",
+						"url": "https://www.shopstyle.com/action/loadRetailerProductPage?id=463992109",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "zalando--AX821C00U-Q11--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/mosaic03.ztat.net/1557820471424985/AX821C00U-Q11@5.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/mosaic03.ztat.net/1557820471424985/AX821C00U-Q11@5.jpg",
+						"name": "Day dress - black",
+						"price": "39.99",
+						"reduced_price": "31.99",
+						"score": 0.5640236,
+						"sub_category": "dress",
+						"url": "https://www.zalando.co.uk/anna-field-curvy-cocktail-dress--party-dress-black-ax821c00u-q11.html",
+						"vendor": "zalando"
+					},
+					{
+						"brand_name": null,
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "nordstrom--5181099--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/n.nordstrommedia.com/1558891586856604/_105086556.jpg",
+							"https://storage.googleapis.com/amoeba-bucket-prod/n.nordstrommedia.com/1558891633482636/_105086556.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/n.nordstrommedia.com/1558891633482636/_105086556.jpg",
+						"name": "A.L.C. Flannery Rib Knit Faux Wrap Skirt",
+						"price": "365.00",
+						"reduced_price": null,
+						"score": 0.56402093,
+						"sub_category": "skirt",
+						"url": "https://shop.nordstrom.com/s/a-l-c-flannery-rib-knit-faux-wrap-skirt/5181099",
+						"vendor": "nordstrom"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--740650337551--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664384234714569/Black-Rafaella-7.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664384234714569/Black-Rafaella-7.jpg",
+						"name": "Rafaella Women's Gabardine Bootcut Pants - Curvy Fit, Plus Size in Black Beige, Size 14, Solid, Polyester/Rayon/Spandex",
+						"price": "79.00",
+						"reduced_price": "27.00",
+						"score": 0.56237215,
+						"sub_category": "trousers",
+						"url": "https://www.dpbolvw.net/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fboot-leg-pant-rs08231r1%3Fvariant%3D33255297876027&cjsku=740650337551",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--099909543305--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664384336189786/lack-Rafaella-10.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1664384336189786/lack-Rafaella-10.jpg",
+						"name": "Rafaella Women's Petite Gabardine Bootcut Pants - Curvy Fit, Plus Size in Black, Size 10P, Polyester/Rayon/Spandex",
+						"price": "32.0",
+						"reduced_price": "17.99",
+						"score": 0.56237215,
+						"sub_category": "trousers",
+						"url": "https://www.dpbolvw.net/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2Fcurvy-fit-pant-pr18231r1%3Fvariant%3D33720453464123&cjsku=099909543305",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": "rafaella",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "perryellis--cj--094829509813--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1677608168135564/raphite-Rafaella.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/cdn.shopify.com/1677608168135564/raphite-Rafaella.jpg",
+						"name": "Rafaella Women's Slim Leg Stretch Gabardine Pants - Curvy Fit, Plus Size in Graphite Black, Size 8, Polyester/Rayon/Spandex",
+						"price": "79.00",
+						"reduced_price": "32.00",
+						"score": 0.56213516,
+						"sub_category": "trousers",
+						"url": "https://www.dpbolvw.net/click-9272677-14084033?url=https%3A%2F%2Fwww.rafaellastyle.com%2Fproducts%2F2-way-slim-pant-rsbf8112r1%3Fvariant%3D33255262945339&cjsku=094829509813",
+						"vendor": "perryellis"
+					},
+					{
+						"brand_name": "marciano guess",
+						"category": "clothing",
+						"currency": "EUR",
+						"gender": "female",
+						"id": "guess--14837534--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1698968699500258/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1698968699500258/es2.productserve.com",
+						"name": "Minifalda Con Estampado Marciano",
+						"price": "140.00",
+						"reduced_price": "140.00",
+						"score": 0.5617983,
+						"sub_category": "shorts",
+						"url": "https://www.awin1.com/pclick.php?p=36322447991&a=620485&m=5088",
+						"vendor": "guess"
+					},
+					{
+						"brand_name": "marciano guess",
+						"category": "clothing",
+						"currency": "EUR",
+						"gender": "female",
+						"id": "guess--14837533--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1695951645759805/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1695951645759805/es2.productserve.com",
+						"name": "Minifalda Con Estampado Marciano",
+						"price": "140.00",
+						"reduced_price": "140.00",
+						"score": 0.5617983,
+						"sub_category": "shorts",
+						"url": "https://www.awin1.com/pclick.php?p=36322447990&a=620485&m=5088",
+						"vendor": "guess"
+					},
+					{
+						"brand_name": "marciano guess",
+						"category": "clothing",
+						"currency": "EUR",
+						"gender": null,
+						"id": "guess--14837532--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1698969454780054/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1698969454780054/es2.productserve.com",
+						"name": "Minifalda Con Estampado Marciano",
+						"price": "140.00",
+						"reduced_price": "140.00",
+						"score": 0.5617983,
+						"sub_category": "shorts",
+						"url": "https://www.awin1.com/pclick.php?p=36322447989&a=620485&m=5088",
+						"vendor": "guess"
+					},
+					{
+						"brand_name": "marciano guess",
+						"category": "clothing",
+						"currency": "EUR",
+						"gender": "female",
+						"id": "guess--14837531--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/169595103695004/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/169595103695004/es2.productserve.com",
+						"name": "Minifalda Con Estampado Marciano",
+						"price": "140.00",
+						"reduced_price": "140.00",
+						"score": 0.5617983,
+						"sub_category": "shorts",
+						"url": "https://www.awin1.com/pclick.php?p=36322447988&a=620485&m=5088",
+						"vendor": "guess"
+					},
+					{
+						"brand_name": "marciano guess",
+						"category": "clothing",
+						"currency": "EUR",
+						"gender": "female",
+						"id": "guess--14837530--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1698969059491396/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1698969059491396/es2.productserve.com",
+						"name": "Minifalda Con Estampado Marciano",
+						"price": "140.00",
+						"reduced_price": "140.00",
+						"score": 0.5617983,
+						"sub_category": "shorts",
+						"url": "https://www.awin1.com/pclick.php?p=36322447987&a=620485&m=5088",
+						"vendor": "guess"
+					},
+					{
+						"brand_name": "marciano guess",
+						"category": "clothing",
+						"currency": "EUR",
+						"gender": "female",
+						"id": "guess--14837529--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1695952286235206/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1695952286235206/es2.productserve.com",
+						"name": "Minifalda Con Estampado Marciano",
+						"price": "140.00",
+						"reduced_price": "140.00",
+						"score": 0.5617983,
+						"sub_category": "shorts",
+						"url": "https://www.awin1.com/pclick.php?p=36322447986&a=620485&m=5088",
+						"vendor": "guess"
+					},
+					{
+						"brand_name": "amanda wakeley",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--16967770--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677589102239/16967770-2.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1595677589102239/16967770-2.jpg",
+						"name": "Red Tailored Shift Crepe Dress",
+						"price": "199.00",
+						"reduced_price": null,
+						"score": 0.55852395,
+						"sub_category": "dress",
+						"url": "https://www.anrdoezrs.net/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F16967770.html&cjsku=16967770",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": "wolford",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "wolford--cj--19156_3094_40--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/www.wolfordshop.com/1656428511486675/_100_006_B_X_B2B.JPG"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/www.wolfordshop.com/1656428511486675/_100_006_B_X_B2B.JPG",
+						"name": "Estella Leggings - Faux Leather",
+						"price": "562.00",
+						"reduced_price": null,
+						"score": 0.55805993,
+						"sub_category": "trousers",
+						"url": "https://www.tkqlhce.com/click-9272677-13759161?url=https%3A%2F%2Fwww.wolfordshop.com%2Foutlet%2Festella-leggings---faux-leather%2F19156.html%3Fdwvar_19156_color%3D3094&cjsku=19156_3094_40",
+						"vendor": "wolford"
+					},
+					{
+						"brand_name": "liu jo",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "spartoo--17746590F--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1586921321663274/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1586921321663274/es2.productserve.com",
+						"name": "Liu Jo  C19239 D4186  women's  in Blue",
+						"price": "120.05",
+						"reduced_price": "114.63",
+						"score": 0.55744183,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=26209603883&a=620485&m=2638",
+						"vendor": "spartoo"
+					},
+					{
+						"brand_name": "7 for all mankind",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "brandalley--cj--18183811--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1680013422432688/18183811-1.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/media.brandalley.co.uk/1680013422432688/18183811-1.jpg",
+						"name": "Indigo Roxanne Stretch Jeans",
+						"price": "180.00",
+						"reduced_price": "65.00",
+						"score": 0.5572906,
+						"sub_category": "trousers",
+						"url": "https://www.dpbolvw.net/click-9272677-13676314?url=https%3A%2F%2Fwww.brandalley.co.uk%2F18183811.html&cjsku=18183811",
+						"vendor": "brandalley"
+					},
+					{
+						"brand_name": "veronica beard",
+						"category": "clothing",
+						"currency": "USD",
+						"gender": "female",
+						"id": "shopstyle--817331307--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581943608597584/f-hem-midi-dress.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/img.shopstyle-cdn.com/1581943608597584/f-hem-midi-dress.jpg",
+						"name": "Veronica Beard Angelica Handkerchief-Hem Midi Dress",
+						"price": "260",
+						"reduced_price": "495",
+						"score": 0.55707,
+						"sub_category": "dress",
+						"url": "https://www.shopstyle.com/g/women/veronica-beard/angelica-handkerchief-hem-midi-dress",
+						"vendor": "shopstyle"
+					},
+					{
+						"brand_name": "mango",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "mango--470740352199006--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/st.mngbcn.com/167578330244833/5_99-99999999_01.jpg"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/st.mngbcn.com/167578330244833/5_99-99999999_01.jpg",
+						"name": "Satin long skirt black - Woman - M - MANGO",
+						"price": "49.99",
+						"reduced_price": null,
+						"score": 0.5562167,
+						"sub_category": "skirt",
+						"url": "https://click.linksynergy.com/link?id=yExw9ymt6gU&offerid=1006403.36057470740352199006&type=15&murl=https%3A%2F%2Fshop.mango.com%2Fgb%2Fwomen%2Fskirts-long%2Fsatin-long-skirt_47074035.html%3Fc%3D99%26talla%3D21",
+						"vendor": "mango"
+					},
+					{
+						"brand_name": "levi's",
+						"category": "clothing",
+						"currency": "GBP",
+						"gender": "female",
+						"id": "spartoo--16746489F--v2",
+						"images": [
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579816353119233/es2.productserve.com",
+							"https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1581761757991076/es2.productserve.com"
+						],
+						"matching_image": "https://storage.googleapis.com/amoeba-bucket-prod/images2.productserve.com/1579816353119233/es2.productserve.com",
+						"name": "Levis  79063 0000 - 721 HIRISE  women's Skinny Jeans in Black",
+						"price": "98.61",
+						"reduced_price": "75.56",
+						"score": 0.5549728,
+						"sub_category": "trousers",
+						"url": "https://www.awin1.com/pclick.php?p=25589304257&a=620485&m=2638",
+						"vendor": "spartoo"
+					}
+				]
+			}
+		]
+	}
+}

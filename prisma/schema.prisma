@@ -1,0 +1,72 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// User 1 -> N Deal
+// Item 1 -> N Deal
+
+model User {
+  id        String     @id @default(uuid())
+  email     String   @unique
+  name      String?
+  password  String
+  deals     Deal[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Item {
+  id                      Int      @id
+  title                   String
+  description             String?
+  google_product_category String
+  product_type            String
+  link                    String
+  image_link              String
+  condition               String
+  availability            String
+  price                   String
+  sale_price              String
+  gender                  String?
+  age_group               String
+  color                   String
+  size                    String
+  deals                   Deal[]
+  createdAt               DateTime @default(now())
+  updatedAt               DateTime @updatedAt
+}
+
+model Deal {
+  id                  String    @id
+  average_score       Float
+  detectedItemName    String
+  detectionConfidence Float
+  brand_name          String?
+  category            String
+  currency            String
+  gender              String?
+  matching_image      String
+  name                String
+  price               String
+  reduced_price       String?
+  score               Float
+  sub_category        String?
+  url                 String
+  vendor              String
+  recipientEmail      String
+  recipient           User   @relation(fields: [recipientEmail], references: [email])
+  searchedItemId      Int
+  searchedItem        Item   @relation(fields: [searchedItemId], references: [id])
+}
+
+// model ResultStats {
+//  confidence score can be abstracted from UI, so will not be stored for demo
+// }
