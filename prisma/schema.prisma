@@ -65,6 +65,8 @@ model Deal {
   recipient           User   @relation(fields: [recipientEmail], references: [email])
   searchedItemId      Int
   searchedItem        Item   @relation(fields: [searchedItemId], references: [id])
+  createdAt               DateTime @default(now())
+  updatedAt               DateTime @updatedAt
 }
 
 // model ResultStats {

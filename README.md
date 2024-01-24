@@ -58,16 +58,20 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-## Support
+## Development environment
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+- Have Node.js installed.
+- Have Docker installed.
 
-## Stay in touch
+## Run database
+- create .env from .env.example
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+```bash
+# create postgres instance container
+$ docker-compose up
 
-## License
+# migrate the database from prisma models
+$ npx prisma migrate dev --name "init"
+```
 
-Nest is [MIT licensed](LICENSE).
+
