@@ -28,6 +28,20 @@ async function main() {
         // deals
       },
     });
+
+    await prisma.user.upsert({
+      where: { email: 'dan@kim.com' },
+      update: {},
+      create: {
+        email: 'dan@kim.com',
+        name: 'Dan Kim',
+        password: 'password-dan',
+      },
+    });
+
+    // await prisma.deal.upsert({
+
+    // });
   });
 }
 
