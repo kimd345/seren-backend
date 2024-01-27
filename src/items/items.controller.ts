@@ -8,12 +8,19 @@ import {
   // Delete,
   Query,
 } from '@nestjs/common';
-import { ApiQuery } from '@nestjs/swagger'; // Import ApiQuery
+import {
+  ApiQuery,
+  ApiTags,
+  // ApiCreatedResponse,
+  ApiOkResponse,
+} from '@nestjs/swagger';
 import { ItemsService } from './items.service';
+import { ItemEntity } from './entities/item.entity';
 // import { CreateItemDto } from './dto/create-item.dto';
 // import { UpdateItemDto } from './dto/update-item.dto';
 
 @Controller('items')
+@ApiTags('items')
 export class ItemsController {
   constructor(private readonly itemsService: ItemsService) {}
 
@@ -23,6 +30,7 @@ export class ItemsController {
   // }
 
   @Get()
+  @ApiOkResponse({ type: ItemEntity, isArray: true })
   findAll() {
     return this.itemsService.findAll();
   }
@@ -33,6 +41,7 @@ export class ItemsController {
   @ApiQuery({ name: 'condition', required: false })
   @ApiQuery({ name: 'priceMin', required: false })
   @ApiQuery({ name: 'priceMax', required: false })
+  @ApiOkResponse({ type: ItemEntity, isArray: true })
   async findMany(
     @Query('gender') gender?: string,
     @Query('product_category') productCategory?: string,
@@ -54,6 +63,7 @@ export class ItemsController {
   }
 
   @Get(':id')
+  @ApiOkResponse({ type: ItemEntity })
   findOne(@Param('id') id: string) {
     return this.itemsService.findOne(id);
   }

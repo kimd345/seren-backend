@@ -29,19 +29,24 @@ async function main() {
       },
     });
 
-    await prisma.user.upsert({
+    const user = await prisma.user.findUnique({
       where: { email: 'dan@kim.com' },
-      update: {},
-      create: {
-        email: 'dan@kim.com',
-        name: 'Dan Kim',
-        password: 'password-dan',
-      },
     });
 
-    // await prisma.deal.upsert({
-
-    // });
+    if (user) {
+      await prisma.user.update({
+        where: { id: user.id },
+        data: {},
+      });
+    } else {
+      await prisma.user.create({
+        data: {
+          email: 'dan@kim.com',
+          name: 'Dan Kim',
+          password: 'password-dan',
+        },
+      });
+    }
   });
 }
 
