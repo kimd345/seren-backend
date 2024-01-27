@@ -1,8 +1,10 @@
 import { PrismaClient } from '@prisma/client';
+import * as bcrypt from 'bcrypt';
 import { itemsCatalogSample } from './lykdat/lykdat_sample_file_edited.js';
 
-// initialize Prisma Client
 const prisma = new PrismaClient();
+
+const roundsOfHashing = 10;
 
 async function main() {
   itemsCatalogSample.forEach(async (item) => {
@@ -43,7 +45,7 @@ async function main() {
         data: {
           email: 'dan@kim.com',
           name: 'Dan Kim',
-          password: 'password-dan',
+          password: await bcrypt.hash('password', roundsOfHashing),
         },
       });
     }
